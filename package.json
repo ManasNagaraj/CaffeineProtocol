@@ -1,0 +1,23 @@
+{
+  "name": "caffeine",
+  "version": "1.0.0",
+  "description": "\"Revolutionary transactions protocol for smooth transactions in blockchain\"",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Manas Nagaraj",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^5.0.1",
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1",
+    "lite-server": "^2.6.1",
+    "nodemon": "^2.0.7",
+    "truffle": "^5.3.10",
+    "truffle-contract": "^4.0.31"
+  }
+}
